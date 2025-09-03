@@ -1,0 +1,3 @@
+# لاظهار حالة الحزمة 
+dpkg --status package_name
+rpm -q package_name

@@ -1,0 +1,8 @@
+# لاضافة مستخدم جديد 
+sudo useradd hosam
+# لوضع كلمة مرور 
+sudo passwd hosam
+# لاضافة مجموعة جديدة 
+sudo groupadd it 
+# لضم المستخدم لمجموعة
+sudo usermod -aG it hosam

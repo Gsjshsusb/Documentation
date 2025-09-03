@@ -1,0 +1,7 @@
+# اذا اردنا انو ندمج اكتر من ملف سوا مع بعض بنحط الامر وبعده اسماء الملفات بعدين اشارة اكبر من وبعدين اسم الملف الخارج
+cat file1 file2 file3 > file1
+# اذا حبينا نساوي ملف جديد ونكتب فيه 
+cat > toke.txt
+jasdfhkhadkhkdfhkhdakuhkufhkahdhkahkjhkasgusk
+# اذا حبينا نعرض محتوى ملف 
+cat toke.txt

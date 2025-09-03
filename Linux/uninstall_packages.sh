@@ -1,0 +1,4 @@
+# لازالة الحزم من انطمة دبيان
+apt-get remove package_name
+# لانظمة rpm
+yum erase package_name

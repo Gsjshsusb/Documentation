@@ -1,7 +1,0 @@
-لتحديث الحزم من المستودع لانظمة دبيان
-apt-get update 
-اما لانظمة rpm
-yum update
-أما اذا اردنا تحديث حزم من برات المستودع 
-dpkg --install package_name
-rpm -U package_name
