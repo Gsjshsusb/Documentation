@@ -1,0 +1,8 @@
+اذا بدنا انو نثبت حزمة على نظام redhat or centos
+yum install emacs
+أما لانظمة متل ubuntu
+apt-get install emacs
+تثبيت حزمة من مصدر خارجي على انطمة دبيان
+dpkg --install file_name
+على انطمة rpm
+rpm -i file_name

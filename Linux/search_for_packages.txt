@@ -1,0 +1,4 @@
+للبحث عن حزمة واذا لم يتم ايجادها يقوم النظام بتنزيلها
+yum search emacs
+اما لانظمة متل ubuntu
+apt-cache search emacs
